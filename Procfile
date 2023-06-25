@@ -1,0 +1,1 @@
+web: gunicorn -w 2 -k unicorn.workers.UvicornWorker dlapi:app
