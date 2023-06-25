@@ -1,0 +1,13 @@
+Next Tasks:
+1. Deploy Model on the Cloud
+   - Explore deployment options (e.g., AWS SageMaker, Heroku, ngrok)
+   - Set up infrastructure and dependencies
+   - Set up Procfile
+   - Deploy model API for sentiment analysis
+   - 
+   - 
+
+2. Improve Model Accuracy
+   - Research and experiment with fine-tuned models
+   - Evaluate performance and suitability
+   - Incorporate a higher-performing model into the pipeline
